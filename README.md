@@ -18,9 +18,9 @@ Merrick Eng - Task Productivity App
 
 # Do you plan on continuing to work on this project?
 - Yes I plan on continuing to work on it and add additional functionality / tweak capabilities:
-- perhaps add productivity timer 
 - perhaps add a visual checkbox or ability to click on the row to delete it - adding a button is difficult though, and I’d want to control if the user clicks on a specific part.
 - perhaps recreate the app in SwiftUI instead
+- Enable drag and drop ordering for tasks to move into different buckets
 
 # Any other questions, comments about the project or the class as a whole?
 -No huge questions at the moment, but here are some small things on my mind:

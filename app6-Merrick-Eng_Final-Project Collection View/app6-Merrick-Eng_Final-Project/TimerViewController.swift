@@ -4,6 +4,8 @@
 //
 //  Created by Merrick Eng on 4/29/21.
 //
+//  Basic circle animation provided by Leo Dabus (Stack Overflow) and modified in order to fit project needs.
+//
 
 import UIKit
 

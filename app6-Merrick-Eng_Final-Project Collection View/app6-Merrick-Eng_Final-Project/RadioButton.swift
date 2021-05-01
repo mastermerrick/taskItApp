@@ -2,7 +2,7 @@
 //  RadioButton.swift
 //  app6-Merrick-Eng_Final-Project
 //
-//  Code borrowed from crubio
+//  Code borrowed from crubio but modified to fit needs
 //
 
 import UIKit
